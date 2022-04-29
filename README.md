@@ -2,3 +2,4 @@
 - 👀 I’m mostly interested in C, Python and GNU/Linux environment, but curiosity is my second nature
 - 🌱 I’m currently learning Computer Science fundamentals mainly through Harvard's CS50
 - 🧑‍🎓 Always learning...
+- 📧 You can reach me at victor.farisanchez@gmail.com
