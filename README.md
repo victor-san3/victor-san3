@@ -1,4 +1,4 @@
 - 👋 Hello, I'm Victor Sanchez
-- 👀 I’m interested mostly in C, Python and GNU/Linux environment 
+- 👀 I’m mostly interested in C, Python and GNU/Linux environment 
 - 🌱 I’m currently learning Computer Science fundamentals mainly through Harvard's CS50
 - 🧑‍🎓 Always learning...
