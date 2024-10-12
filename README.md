@@ -1,5 +1,3 @@
-- 👋 Hello, I'm Victor Sanchez
-- 👀 I’m mostly interested in C, Python and GNU/Linux environment, but curiosity is my second nature
-- 🌱 I’m currently learning Computer Science fundamentals mainly through Harvard's CS50
+- 👋 Hello, I'm Victor
 - 🧑‍🎓 Always learning...
 - 📧 You can reach me at victor.farisanchez@gmail.com
